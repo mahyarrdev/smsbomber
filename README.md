@@ -1,20 +1,11 @@
-ابزار اسمس بمبر🎯
-این ابزار به شما امکان می‌دهد در هر ۵ دقیقه (۳۰۰ ثانیه) حدود ۱۰۰ پیامک با سرعت بالا ارسال کند همچنین این ابزار دارای یک کال بمبر ویژه است که به زودی تقویت می‌شود این ابزار را با اسم"ML BOMBER" بشناسید
+SMS Bomber tool 🎯 This tool allows you to send about 100 high-speed SMS messages every 5 minutes (300 seconds). Also, this tool has a special Call Bomber that will be strengthened soon. You can know this tool by the name "ML BOMBER".
 
+ It's just a joke! This tool is only for joking and having fun with friends if the person is satisfied and please don't use it to cause trouble and only use it to increase knowledge and jokes.
 
-فقط یک شوخی است!🔴
-این ابزار فقط برای شوخی و سرگرمی با دوستان درصورت رضایت فرد است و لطفا از آن برای ایجاد مزاحمت استفاده نکنید و تنها براي افزايش علم و شوخی استفاده شود
+ Develop it👌🏼 If you can add something to this tool, I will be happy to send it to mahyarsultanmohammedi@gmail.com and I will post it here so that others can use it and your name will be mentioned in it.
 
-توسعه دهید👌🏼
-اگر توانستید به این ابزار چیزی اضافه کنید خوشحال میشم تا آن را به ایمیل mahyarsultanmohammedi@gmail.com  ارسال کنید و آن را در این جا قرار دهم تا دیگران هم از آن استفاده کنند و اسم شما در آن برده می‌شود
+ How to use? Just run the Python file in your coding environment, then enter your number (without the country code and starting point), then the tool will start attacking.
 
+ You have no limits 🧨 The tool is designed in such a way that it sleeps for 5 seconds in order not to block the IP by the code provider and then resumes the attack.
 
-چگونه استفاده کنیم؟‼️
-کافی است فایل پایتون را در محیط کدنویسی خود ران کنید سپس شماره خود را وارد کنید (بدون کد کشور و نقطه ابتدایی) سپس ابزار شروع به حمله میکند
-
-محدودیتی ندارید🧨
-ابزار جوری طراحی شده است که برای بن نشدن ایپی توسط ارائه دهنده کد به صورت ۵ ثانیه به خواب می‌رود و سپس حمله را از سرگیری میکند
-
-
-
-متاسفیم! اما این ابزار درحال حاضر نمی‌تواند به کشور هایی به غیر از ایران خدماتی ارائه دهد ما سعی داریم آن را بهبود ببخشیم پس ویرایشات خود را برای mahyarsultanmohammedi@gmail.com ارسال کنید تا تمام کاربران بتوانند از آن استفاده کنند
+ we are sorry!  But this tool currently cannot provide services to countries other than Iran, we are trying to improve it, so send your edits to mahyarsultanmohammedi@gmail.com so that all users can use it.
