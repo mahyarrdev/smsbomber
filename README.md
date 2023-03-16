@@ -25,3 +25,4 @@ If you can add something to this tool, I will be happy to send it to mahyarsulta
 </ul>
 
 <h2>Made with:</h2>
+https://img.shields.io/badge/python-3-f39f37
