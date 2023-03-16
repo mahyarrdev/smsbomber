@@ -1,4 +1,4 @@
-<a href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/negar_۲۰۲۳۰۳۱۶_۱۶۳۰۰۶_4qx1.png" alt="img"</a>
+<a href="https://uupload.ir/" target="_blank"><img src="https://s2.uupload.ir/files/negar_۲۰۲۳۰۳۱۶_۱۶۳۰۰۶_4qx1.png" border="0" alt="img " /></a>
 <p>
    <h2>SMS Bomber tool 🎯 </h2>
   This tool allows you to send about 100 high-speed SMS messages every 5 minutes (300 seconds). Also, this tool has a special Call Bomber that will be strengthened soon. You can know this tool by the name "ML BOMBER".
@@ -15,3 +15,11 @@ If you can add something to this tool, I will be happy to send it to mahyarsulta
 
  we are sorry!  But this tool currently cannot provide services to countries other than Iran, we are trying to improve it, so send your edits to mahyarsultanmohammedi@gmail.com so that all users can use it.
 </p>
+
+<h2>🔸️Attributes:</h2>
+<ul>
+  <li>High speed</li>
+  <li>powerful</li>
+  <li>Low limit</li>
+  <li>Free</li>
+</ul>
